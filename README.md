@@ -2,7 +2,7 @@
 
 GeoMart is a Software Engineering course project developed as part of **CSC 3312 – Software Engineering** at **American International University–Bangladesh (AIUB)**.
 
-The project proposes a hyperlocal e-commerce platform that connects **buyers**, **local sellers**, and **delivery riders**, enabling customers to purchase products from nearby shops with fast same-day delivery. The project follows the **Scrum (Agile)** software development methodology and includes complete software engineering documentation. :contentReference[oaicite:1]{index=1}
+The project proposes a hyperlocal e-commerce platform that connects **buyers**, **local sellers**, and **delivery riders**, enabling customers to purchase products from nearby shops with fast same-day delivery. The project follows the **Scrum (Agile)** software development methodology and includes complete software engineering documentation.
 
 ---
 
@@ -27,8 +27,7 @@ This repository contains the complete Software Engineering project documentation
 
 ## 📌 Project Overview
 
-GeoMart is designed to solve the problem of long delivery times by connecting customers with nearby local shops. Instead of ordering products from distant warehouses, buyers can quickly find products available in their neighborhood and receive them through local delivery riders. :contentReference[oaicite:2]{index=2}
-
+GeoMart is designed to solve the problem of long delivery times by connecting customers with nearby local shops. Instead of ordering products from distant warehouses, buyers can quickly find products available in their neighborhood and receive them through local delivery riders. 
 ---
 
 ## 👥 User Roles
@@ -39,8 +38,7 @@ The system consists of three primary user roles:
 - 🏪 Seller
 - 🚴 Rider
 
-Each user has dedicated features and responsibilities within the platform. :contentReference[oaicite:3]{index=3}
-
+Each user has dedicated features and responsibilities within the platform.
 ---
 
 ## 🏗️ Development Methodology
